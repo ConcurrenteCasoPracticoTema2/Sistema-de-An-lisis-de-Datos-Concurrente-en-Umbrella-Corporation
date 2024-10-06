@@ -1,1 +1,0 @@
-# Sistema-de-An-lisis-de-Datos-Concurrente-en-Umbrella-Corporation
